@@ -1,5 +1,5 @@
 # 🧩 Análise de Sincronização entre Threads
-### Disciplina: Programação Concorrente  
+### Disciplina: Sistemas Distribuídos
 ### Autor: João Vitor da Silva Oliveira  
 ### Data: 30/10/2025 
 
