@@ -160,8 +160,4 @@ A evolução entre as atividades mostra como pequenos ajustes na forma de sincro
 
 ---
 
-## 📚 Referências
 
-- DEITEL, Paul; DEITEL, Harvey. *Java: Como Programar*, 10ª ed. Pearson, 2016.  
-- DOWNEY, Allen B. *Think Java: How to Think Like a Computer Scientist*. O’Reilly, 2019.  
-- ORACLE. *Java Platform Standard Edition Documentation*. Disponível em: [https://docs.oracle.com/javase/](https://docs.oracle.com/javase/)
