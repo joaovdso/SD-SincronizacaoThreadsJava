@@ -1,7 +1,7 @@
 # 🧩 Análise de Sincronização entre Threads
 ### Disciplina: Programação Concorrente  
-### Autor: *[Seu Nome Aqui]*  
-### Data: *[dd/mm/aaaa]*  
+### Autor: João Vitor da Silva Oliveira  
+### Data: 30/10/2025 
 
 ---
 
