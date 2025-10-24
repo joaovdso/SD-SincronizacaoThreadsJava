@@ -1,0 +1,122 @@
+1,60c1,60
+< Produtor usando Eventos: 0
+< Consumidor usando Eventos: 0
+< Produtor usando Eventos: 1
+< Produtor usando Eventos: 2
+< Consumidor usando Eventos: 1
+< Produtor usando Eventos: 3
+< Consumidor usando Eventos: 2
+< Consumidor usando Eventos: 3
+< Produtor usando Eventos: 4
+< Consumidor usando Eventos: 4
+< Produtor usando Eventos: 5
+< Consumidor usando Eventos: 5
+< Produtor usando Eventos: 6
+< Consumidor usando Eventos: 6
+< Produtor usando Eventos: 7
+< Consumidor usando Eventos: 7
+< Produtor usando Eventos: 8
+< Consumidor usando Eventos: 8
+< Produtor usando Eventos: 9
+< Consumidor usando Eventos: 9
+< Produtor usando Eventos: 10
+< Consumidor usando Eventos: 10
+< Produtor usando Eventos: 11
+< Consumidor usando Eventos: 11
+< Produtor usando Eventos: 12
+< Consumidor usando Eventos: 12
+< Produtor usando Eventos: 13
+< Consumidor usando Eventos: 13
+< Produtor usando Eventos: 14
+< Consumidor usando Eventos: 14
+< Produtor usando Eventos: 15
+< Consumidor usando Eventos: 15
+< Produtor usando Eventos: 16
+< Consumidor usando Eventos: 16
+< Produtor usando Eventos: 17
+< Consumidor usando Eventos: 17
+< Consumidor usando Eventos: 18
+< Produtor usando Eventos: 18
+< Produtor usando Eventos: 19
+< Consumidor usando Eventos: 19
+< Produtor usando Eventos: 20
+< Consumidor usando Eventos: 20
+< Produtor usando Eventos: 21
+< Consumidor usando Eventos: 21
+< Produtor usando Eventos: 22
+< Produtor usando Eventos: 23
+< Consumidor usando Eventos: 22
+< Produtor usando Eventos: 24
+< Consumidor usando Eventos: 23
+< Consumidor usando Eventos: 24
+< Produtor usando Eventos: 25
+< Consumidor usando Eventos: 25
+< Produtor usando Eventos: 26
+< Consumidor usando Eventos: 26
+< Produtor usando Eventos: 27
+< Consumidor usando Eventos: 27
+< Produtor usando Eventos: 28
+< Consumidor usando Eventos: 28
+< Produtor usando Eventos: 29
+< Consumidor usando Eventos: 29
+---
+> Produtor: 0
+> Consumidor: 0
+> Produtor: 1
+> Consumidor: 1
+> Produtor: 2
+> Consumidor: 2
+> Produtor: 3
+> Produtor: 4
+> Consumidor: 4
+> Consumidor: 4
+> Consumidor: 4
+> Produtor: 5
+> Consumidor: 5
+> Produtor: 6
+> Consumidor: 6
+> Produtor: 7
+> Produtor: 8
+> Consumidor: 8
+> Consumidor: 8
+> Produtor: 9
+> Produtor: 10
+> Produtor: 11
+> Consumidor: 11
+> Produtor: 12
+> Produtor: 13
+> Consumidor: 13
+> Produtor: 14
+> Consumidor: 14
+> Produtor: 15
+> Produtor: 16
+> Produtor: 17
+> Consumidor: 17
+> Produtor: 18
+> Consumidor: 18
+> Produtor: 19
+> Consumidor: 19
+> Produtor: 20
+> Consumidor: 20
+> Consumidor: 20
+> Produtor: 21
+> Consumidor: 21
+> Consumidor: 21
+> Consumidor: 21
+> Produtor: 22
+> Consumidor: 22
+> Consumidor: 22
+> Produtor: 23
+> Consumidor: 23
+> Consumidor: 23
+> Produtor: 24
+> Consumidor: 24
+> Produtor: 25
+> Consumidor: 25
+> Produtor: 26
+> Produtor: 27
+> Consumidor: 27
+> Produtor: 28
+> Consumidor: 28
+> Produtor: 29
+> Consumidor: 29
