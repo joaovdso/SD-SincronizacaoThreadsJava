@@ -1,11 +1,10 @@
-# 🧩 Análise de Sincronização entre Threads
+# Análise de Sincronização entre Threads
 ### Disciplina: Programação Concorrente  
-### Autor: *[Seu Nome Aqui]*  
-### Data: *[dd/mm/aaaa]*  
-
+### Autor: João Vitor da Silva Oliveira 
+### Data: 30/09/2025
 ---
 
-## 🧠 Introdução
+## Introdução
 
 Este relatório apresenta a **análise das Atividades Práticas 01, 02 e 03**, cujo objetivo foi compreender e aplicar os mecanismos de **sincronização entre threads** em Java, explorando como o controle (ou a ausência dele) influencia o comportamento do programa, a ordem de execução e a integridade dos dados.
 
@@ -18,7 +17,7 @@ Cada atividade foi executada e analisada individualmente, com observação de sa
 
 ---
 
-## ⚙️ Atividade 01 – Execução sem Sincronização
+##  Atividade 01 – Execução sem Sincronização
 
 ### **Descrição**
 
@@ -35,8 +34,10 @@ class MeuDadoThreads {
 ```
 
 ### **Execução**
-📸 *Espaço para inserir print da saída:*  
-![Print Atividade 1](imagens/atv1.png)
+<img width="1920" height="1080" alt="Print log1" src="https://github.com/user-attachments/assets/186267e8-b976-4325-8e33-a3ece539c9d1" />
+
+<img width="1920" height="1080" alt="Print log2" src="https://github.com/user-attachments/assets/7fb92b19-4914-43da-8f8e-0748e7529c7f" />
+
 
 ---
 
@@ -53,7 +54,7 @@ Essa atividade mostra claramente o problema da falta de sincronização. É inte
 
 ---
 
-## 🔒 Atividade 02 – Sincronização com Região Crítica
+## Atividade 02 – Sincronização com Região Crítica
 
 ### **Descrição**
 
@@ -88,7 +89,7 @@ Percebe-se uma grande melhora na integridade dos dados, pois não há mais inter
 
 ---
 
-## 🔁 Atividade 03 – Comunicação via Eventos (wait/notify)
+## Atividade 03 – Comunicação via Eventos (wait/notify)
 
 ### **Descrição**
 
@@ -141,7 +142,7 @@ Esta versão é claramente mais eficiente e lógica. O comportamento se assemelh
 
 ---
 
-## 📊 Comparativo das Atividades
+## Comparativo das Atividades
 
 | Atividade | Mecanismo de Sincronização | Ordem de Execução | Integridade dos Dados | Observações |
 |------------|----------------------------|-------------------|------------------------|--------------|
@@ -151,8 +152,7 @@ Esta versão é claramente mais eficiente e lógica. O comportamento se assemelh
 
 ---
 
-## 🧩 Conclusão Geral
-
+## Conclusão Geral
 As três atividades permitiram compreender, de forma progressiva, a importância da **sincronização em sistemas concorrentes**.  
 A ausência de controle (Atv 1) leva à perda total de integridade; o controle parcial (`synchronized`, Atv 2) melhora a consistência, mas não garante alternância; e a coordenação com eventos (`wait()`/`notify()`, Atv 3) proporciona **execuções ordenadas, seguras e realistas**.
 
@@ -160,8 +160,3 @@ A evolução entre as atividades mostra como pequenos ajustes na forma de sincro
 
 ---
 
-## 📚 Referências
-
-- DEITEL, Paul; DEITEL, Harvey. *Java: Como Programar*, 10ª ed. Pearson, 2016.  
-- DOWNEY, Allen B. *Think Java: How to Think Like a Computer Scientist*. O’Reilly, 2019.  
-- ORACLE. *Java Platform Standard Edition Documentation*. Disponível em: [https://docs.oracle.com/javase/](https://docs.oracle.com/javase/)
