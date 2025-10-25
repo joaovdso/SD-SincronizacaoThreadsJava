@@ -73,6 +73,8 @@ class MeuDadoMonitor {
 
 ### **Execução**
 <img width="1365" height="651" alt="Print-Log2" src="https://github.com/user-attachments/assets/44a68b2b-c7f9-4c1e-a5b5-430ea65c2170" />
+<img width="1366" height="686" alt="Atv2-Comparacao Log3xLog1" src="https://github.com/user-attachments/assets/262ade35-6365-442a-976c-df610a4cc30b" />
+<img width="1366" height="690" alt="Atv2- ComparacaoLog3xLog2" src="https://github.com/user-attachments/assets/60e0285c-bc8b-4467-b0b8-908fb637028a" />
 
 
 ---
@@ -122,9 +124,11 @@ class MeuDadoEvent {
 ```
 
 ### **Execução**
-📸 *Espaço para inserir prints da saída (início, meio e fim da execução):*  
-![Print Atividade 3 - 1](imagens/atv3-1.png)  
-![Print Atividade 3 - 2](imagens/atv3-2.png)
+<img width="1365" height="689" alt="Atv3-log4" src="https://github.com/user-attachments/assets/49788225-626c-4b95-a7c7-9804d5929be4" />
+<img width="1366" height="690" alt="Atv3-ComparacaoLog4xLog1" src="https://github.com/user-attachments/assets/ab6cb12b-ac42-4298-a700-79d6306f5db6" />
+<img width="1363" height="688" alt="Atv3-ComparacaoLog4xLog2" src="https://github.com/user-attachments/assets/819bc7c5-5bed-490b-8c35-5edfcdb4c0a3" />
+<img width="1365" height="684" alt="Atv3-ComparacaoLog4xLog3" src="https://github.com/user-attachments/assets/6c95f079-7aa9-4f10-86a7-f6c06fe5dd05" />
+
 
 ---
 
