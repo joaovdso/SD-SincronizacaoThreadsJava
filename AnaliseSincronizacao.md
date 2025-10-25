@@ -72,8 +72,8 @@ class MeuDadoMonitor {
 ```
 
 ### **Execução**
-📸 *Espaço para inserir print da saída:*  
-![Print Atividade 2](imagens/atv2.png)
+<img width="1365" height="651" alt="Print-Log2" src="https://github.com/user-attachments/assets/44a68b2b-c7f9-4c1e-a5b5-430ea65c2170" />
+
 
 ---
 
